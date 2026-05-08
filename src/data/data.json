@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Planta Solar Norte",
+    "location": "Buga, Valle",
+    "capacity": 520,
+    "status": "Activo",
+    "description": "Sistema solar industrial de alta eficiencia."
+  },
+  {
+    "id": 2,
+    "name": "Residencial El Lago",
+    "location": "Cali, Valle",
+    "capacity": 180,
+    "status": "Mantenimiento",
+    "description": "Proyecto residencial con monitoreo inteligente."
+  },
+  {
+    "id": 3,
+    "name": "Centro Comercial Arboleda",
+    "location": "Pereira, Risaralda",
+    "capacity": 760,
+    "status": "Activo",
+    "description": "Sistema fotovoltaico para reducción energética comercial."
+  },
+  {
+    "id": 4,
+    "name": "Granja Solar Palmira",
+    "location": "Palmira, Valle",
+    "capacity": 920,
+    "status": "Pendiente",
+    "description": "Proyecto agrícola sostenible de energía renovable."
+  },
+  {
+    "id": 5,
+    "name": "Hotel del Mar",
+    "location": "Santa Marta, Magdalena",
+    "capacity": 340,
+    "status": "Activo",
+    "description": "Paneles solares para abastecimiento hotelero."
+  },
+  {
+    "id": 6,
+    "name": "Campus Universitario Univalle",
+    "location": "Cali, Valle",
+    "capacity": 720,
+    "status": "Activo",
+    "description": "Instalación solar universitaria de gran escala."
+  },
+  {
+    "id": 7,
+    "name": "EcoParque Industrial",
+    "location": "Yumbo, Valle",
+    "capacity": 1100,
+    "status": "Mantenimiento",
+    "description": "Sistema solar para zona industrial."
+  },
+  {
+    "id": 8,
+    "name": "Solar Horizonte",
+    "location": "Bogotá, Cundinamarca",
+    "capacity": 640,
+    "status": "Activo",
+    "description": "Proyecto urbano de energía limpia."
+  },
+  {
+    "id": 9,
+    "name": "Torre Empresarial Nova",
+    "location": "Medellín, Antioquia",
+    "capacity": 410,
+    "status": "Pendiente",
+    "description": "Instalación solar para oficinas corporativas."
+  },
+  {
+    "id": 10,
+    "name": "Parque Solar Guajira",
+    "location": "Riohacha, La Guajira",
+    "capacity": 1500,
+    "status": "Activo",
+    "description": "Parque solar de alta capacidad energética."
+  },
+  {
+    "id": 11,
+    "name": "Conjunto Verde Natura",
+    "location": "Cali, Valle",
+    "capacity": 230,
+    "status": "Mantenimiento",
+    "description": "Sistema residencial ecológico."
+  },
+  {
+    "id": 12,
+    "name": "Hospital Central Solar",
+    "location": "Manizales, Caldas",
+    "capacity": 680,
+    "status": "Activo",
+    "description": "Abastecimiento energético hospitalario."
+  },
+  {
+    "id": 13,
+    "name": "SolarTech Barranquilla",
+    "location": "Barranquilla, Atlántico",
+    "capacity": 870,
+    "status": "Pendiente",
+    "description": "Proyecto tecnológico de energía renovable."
+  },
+  {
+    "id": 14,
+    "name": "EcoMall Caribe",
+    "location": "Cartagena, Bolívar",
+    "capacity": 550,
+    "status": "Activo",
+    "description": "Centro comercial autosostenible."
+  },
+  {
+    "id": 15,
+    "name": "Finca Sol Dorado",
+    "location": "Jamundí, Valle",
+    "capacity": 300,
+    "status": "Mantenimiento",
+    "description": "Sistema solar para finca agrícola."
+  },
+  {
+    "id": 16,
+    "name": "Solar Plaza Norte",
+    "location": "Tunja, Boyacá",
+    "capacity": 480,
+    "status": "Activo",
+    "description": "Proyecto urbano de paneles solares."
+  },
+  {
+    "id": 17,
+    "name": "Universidad Verde",
+    "location": "Popayán, Cauca",
+    "capacity": 790,
+    "status": "Activo",
+    "description": "Campus universitario energéticamente eficiente."
+  },
+  {
+    "id": 18,
+    "name": "EcoResidencias Luna",
+    "location": "Neiva, Huila",
+    "capacity": 260,
+    "status": "Pendiente",
+    "description": "Conjunto residencial con energía solar."
+  },
+  {
+    "id": 19,
+    "name": "Solar Portuario",
+    "location": "Buenaventura, Valle",
+    "capacity": 980,
+    "status": "Activo",
+    "description": "Sistema solar para operaciones portuarias."
+  },
+  {
+    "id": 20,
+    "name": "Terminal Verde",
+    "location": "Cúcuta, Norte de Santander",
+    "capacity": 610,
+    "status": "Mantenimiento",
+    "description": "Proyecto energético para terminal terrestre."
+  },
+  {
+    "id": 21,
+    "name": "Parque Empresarial Solis",
+    "location": "Armenia, Quindío",
+    "capacity": 430,
+    "status": "Activo",
+    "description": "Sistema solar empresarial."
+  },
+  {
+    "id": 22,
+    "name": "Colegio EcoFuture",
+    "location": "Ibagué, Tolima",
+    "capacity": 190,
+    "status": "Pendiente",
+    "description": "Institución educativa con energía renovable."
+  },
+  {
+    "id": 23,
+    "name": "Solar Andino",
+    "location": "Pasto, Nariño",
+    "capacity": 710,
+    "status": "Activo",
+    "description": "Instalación solar de alto rendimiento."
+  },
+  {
+    "id": 24,
+    "name": "Mirador Solar",
+    "location": "Montería, Córdoba",
+    "capacity": 360,
+    "status": "Mantenimiento",
+    "description": "Proyecto ecológico residencial."
+  },
+  {
+    "id": 25,
+    "name": "EcoCenter Premium",
+    "location": "Bucaramanga, Santander",
+    "capacity": 880,
+    "status": "Activo",
+    "description": "Centro empresarial sostenible."
+  },
+  {
+    "id": 26,
+    "name": "Solar Infinity",
+    "location": "Sincelejo, Sucre",
+    "capacity": 540,
+    "status": "Pendiente",
+    "description": "Sistema solar para expansión energética."
+  },
+  {
+    "id": 27,
+    "name": "Villa Solar Campestre",
+    "location": "Villavicencio, Meta",
+    "capacity": 270,
+    "status": "Activo",
+    "description": "Conjunto campestre autosostenible."
+  },
+  {
+    "id": 28,
+    "name": "Green Energy Hub",
+    "location": "Florencia, Caquetá",
+    "capacity": 690,
+    "status": "Mantenimiento",
+    "description": "Centro energético renovable."
+  },
+  {
+    "id": 29,
+    "name": "Solar Nexus",
+    "location": "San Andrés, Colombia",
+    "capacity": 450,
+    "status": "Activo",
+    "description": "Proyecto turístico sostenible."
+  },
+  {
+    "id": 30,
+    "name": "EcoSolar Prime",
+    "location": "Leticia, Amazonas",
+    "capacity": 820,
+    "status": "Pendiente",
+    "description": "Sistema solar para preservación ambiental."
+  }
+]
